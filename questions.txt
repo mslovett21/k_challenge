@@ -1,0 +1,6 @@
+# Questions about the CNN
+
+-> how to best initialize weights and biases?
+in the code:
+
+weights initialized from truncated normal distribution with std = 0.05
