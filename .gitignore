@@ -2,3 +2,4 @@ data/
 data_splits
 drug_fingerprints.txt
 train/train_fingerprints.csv
+temp/
