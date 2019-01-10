@@ -4,3 +4,4 @@ drug_fingerprints.txt
 train/train_fingerprints.csv
 temp/
 similarity/
+valid_data/drug_fingerprints.txt
