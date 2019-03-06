@@ -8,9 +8,9 @@ from datetime import timedelta
 import math
 import numpy as np
 import re
-#
+
 # image dimensions
-#
+
 
 img_height = 32
 img_width = 32
@@ -32,8 +32,6 @@ BATCH_NORM_EPSILON = 1e-5
 drug_fingerprints_fh = "./sample/sample_fingerprints.csv"
 drug_targets_fh      = "./sample/sample_targets.csv"
 drug_weights_fh      = "./sample/sample_weights.csv"
-
-
 
 
 def populate_data(file_handle,data_matrix, data_size):
